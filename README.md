@@ -3,8 +3,10 @@
 
 This repository contains a PyTorch implementation of the **Vision Transformer (ViT)** architecture, trained on the CIFAR-10 dataset. The project demonstrates how to build ViT from the ground up without using pretrained models or high-level libraries like `timm`.
 
-![Vision Transformer Architecture](https://github.com/Taha-bouhafa1/ViT_model/blob/main/assets/The-Vision-Transformer-architecture-a-the-main-architecture-of-the-model-b-the.png)
+![Vision Transformer Architecture](https://github.com/Taha-bouhafa1/ViT_model/blob/main/assets/Screenshot%202025-07-07%20212554.png)
 
+![Vision Transformer Architecture](https://github.com/Taha-bouhafa1/ViT_model/blob/main/assets/The-Vision-Transformer-architecture-a-the-main-architecture-of-the-model-b-the.png)
+  
 ---
 
 ##  Overview
