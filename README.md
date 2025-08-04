@@ -66,7 +66,7 @@ The ViT model consists of the following main components:
 | Test Accuracy    | 63.81%    |
 | Train Loss       | 0.6803    |
 
-> Note: ViT models typically require **larger datasets** and longer training times to reach competitive accuracy. CIFAR-10 is a relatively small dataset for this type of architecture, which is why the test accuracy is lower than expected.
+> 🔴Note: ViT models typically require **larger datasets** and longer training times to reach competitive accuracy. CIFAR-10 is a relatively small dataset for this type of architecture, which is why the test accuracy is lower than expected.
 
 ---
 
